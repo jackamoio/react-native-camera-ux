@@ -1,0 +1,26 @@
+{
+  "name": "react-native-camera-ux",
+  "version": "1.0.0",
+  "description": "A complete ux for accessing the camera in React Native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackamoio/react-native-camera-ux.git"
+  },
+  "keywords": [
+    "react",
+    "native",
+    "camera",
+    "photos",
+    "video"
+  ],
+  "author": "Derek Johnston <derek@jackamo.io>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackamoio/react-native-camera-ux/issues"
+  },
+  "homepage": "https://github.com/jackamoio/react-native-camera-ux#readme"
+}
